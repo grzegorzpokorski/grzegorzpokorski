@@ -21,7 +21,7 @@ I'm actively looking for:
 - **business** opportunities
 - opportunities to **develop** my programing skills
 
-Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). I'm **always happy** to hear from **YOU!** 😊
+Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). you can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/) I'm **always happy** to hear from **YOU!** 😊
 
 ---
 
@@ -39,6 +39,16 @@ Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). I'm **always
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-logo?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
 ![ACF PRO](https://img.shields.io/badge/acf&nbsp;pro-logo?style=for-the-badge&logo=acfpro&logoColor=white&color=00e4bc)
+
+## 👨‍🎨 Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/photoshop-logo?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=31A8FF)
+
+Apart from programming, I am also interested in UX/UI. I love good looking designs which are also intuitive in using at the same time. Check my portfolio on [Behance](https://www.behance.net/grzegorzpokorski)!
+
+## ✨ Other
+![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![English B2](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-B2-blue?style=for-the-badge)
+
 
 <!--
 ### Html
