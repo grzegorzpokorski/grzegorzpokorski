@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Grzegorz Pokorski 👋
+# Hi! I'm Grzegorz Pokorski 👋
 I would describe myself as a self taught front-end developer driven by passion about the Internet and related technology. Always have been curious about creating something from nothing. In free time from time to time I'm writing articles about various web development topics on my [blog](https://grzegorzpokorski.pl/blog) (currently in polish only).
 
 I'm actively looking for:
@@ -21,7 +21,7 @@ I'm actively looking for:
 - **business** opportunities
 - opportunities to **develop** my programing skills
 
-Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). you can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/) I'm **always happy** to hear from **YOU!** 😊
+Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). you can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/). I'm **always happy** to hear from **YOU!** 😊
 
 ---
 
