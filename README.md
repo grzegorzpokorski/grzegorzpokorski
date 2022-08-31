@@ -23,6 +23,9 @@ I'm actively looking for:
 
 Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). you can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/). I'm **always happy** to hear from **YOU!** 😊
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrykbunix/)](https://www.linkedin.com/in/grzegorz-pokorski/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrykbunix@gmail.com)](mailto:mr.pokorski@gmail.com)
+
 ---
 
 ## Skills and interests
