@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi! I'm Grzegorz Pokorski 👋
-I would describe myself as a self taught front-end developer driven by passion about the Internet and related technology. Always have been curious about creating something from nothing. In free time from time to time I'm writing articles about various web development topics on my [blog](https://grzegorzpokorski.pl/blog) (currently in polish only).
+I would describe myself as a self taught front-end developer driven by passion about the Internet and related technology. Always have been curious about creating something from nothing ✨
+
+In free time I love to contribute to the open source projects - that's the way how I learn new things, meet great people and also I partially fulfill as a developer by finding 🕵️‍♂️ and fixing bugs 🐛 what I really like do ♥️
 
 I'm actively looking for:
 - interesting **projects**
