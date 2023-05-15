@@ -14,16 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Hi! I'm Grzegorz Pokorski 👋
-I would describe myself as a self taught front-end developer driven by passion about the Internet and related technology. Always have been curious about creating something from nothing ✨
+I'm a self-taught front-end developer driven by my passion for creating websites from scratch. I've always been fascinated by building something out of nothing ✨
+Currently I am focused on deeply understanding TypeScript. I am also a big fan of Next.js framework because it enables me to create lightning-fast and high-performing websites that effectively achieve their business objectives.
 
 In free time I love to contribute to the open source projects - that's the way how I learn new things, meet great people and also I partially fulfill as a developer by finding 🕵️‍♂️ and fixing bugs 🐛 what I really like do ♥️
 
-I'm actively looking for:
-- interesting **projects**
-- **business** opportunities
-- opportunities to **develop** my programing skills
+Sometimes I write articles on [my personal blog](https://grzegorzpokorski.pl/blog/) where I share some of my thoughts and knowledge about web development.
 
-Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). you can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/) or [Discord](https://discord.com/) (nope#6687). I'm **always happy** to hear from **YOU!** 😊
+Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). You can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/) or [Discord](https://discord.com/) (nope#6687). I'm **always happy** to hear from **YOU!** 😊
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrykbunix/)](https://www.linkedin.com/in/grzegorz-pokorski/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patrykbunix@gmail.com)](mailto:mr.pokorski@gmail.com)
