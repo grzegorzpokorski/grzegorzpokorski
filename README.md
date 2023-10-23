@@ -22,7 +22,7 @@ Here are a few projects to which I have contributed recently:
 - [typeofweb/devfaq](https://github.com/typeofweb/devfaq)
 - [NowYouKnowProgramming/webdev-learning-materials](https://github.com/NowYouKnowProgramming/webdev-learning-materials)
 
-Sometimes I write articles on [my personal blog](https://grzegorzpokorski.pl/blog/) where I share some of my thoughts and knowledge about web development. Look at my recent blog posts (for now in polish only):
+Sometimes I write articles on [my personal blog](https://grzegorzpokorski.pl/blog/) where I share some of my thoughts and knowledge about web development. Look at my recent blog posts (for now in Polish only):
 - [Disabled, czy aria-disabled? Który atrybut wybrać?](https://grzegorzpokorski.pl/blog/disabled-czy-aria-disabled-ktory-atrybut-wybrac)
 - [Dostępność w kilku krokach](https://grzegorzpokorski.pl/blog/dostepnosc-w-kilku-krokach)
 - [Jak przyspieszyć stronę internetową?](https://grzegorzpokorski.pl/blog/jak-przyspieszyc-strone-internetowa)
