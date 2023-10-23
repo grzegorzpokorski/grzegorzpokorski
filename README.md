@@ -67,6 +67,8 @@ Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). You can also
 ## Languages:
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![English B2](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-B2-blue?style=for-the-badge)
 
+---
+
 ![](https://komarev.com/ghpvc/?username=grzegorzpokorski&style=flat-square)
 
 <!--
