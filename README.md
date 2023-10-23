@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 -->
 
 # Hi! I'm Grzegorz Pokorski 👋
-I'm a self-taught front-end developer driven by my passion for creating websites from scratch. I've always been fascinated by building something out of nothing ✨
-Currently I am focused on deeply understanding TypeScript. I am also a big fan of Next.js framework because it enables me to create lightning-fast and high-performing websites that effectively achieve their business objectives.
+I'm a self-taught front-end developer driven by my passion for creating high-quality websites using modern technologies. I am currently contributing to open-source projects and expanding my expertise in **TypeScript** and **React**. I am also a big fan of **Next.js** framework because it enables me to create lightning-fast and high-performing websites that effectively achieve their business objectives.
 
-In free time I love to contribute to the open source projects - that's the way how I learn new things, meet great people and also I partially fulfill as a developer by finding 🕵️‍♂️ and fixing bugs 🐛 what I really like do ♥️
+Here are a few projects to which I have contributed recently:
+- [saleor/storefront](https://github.com/saleor/storefront)
+- [typeofweb/typeofweb.com](https://github.com/typeofweb/typeofweb.com)
+- [typeofweb/devfaq](https://github.com/typeofweb/devfaq)
+- [NowYouKnowProgramming/webdev-learning-materials](https://github.com/NowYouKnowProgramming/webdev-learning-materials)
 
-Sometimes I write articles on [my personal blog](https://grzegorzpokorski.pl/blog/) where I share some of my thoughts and knowledge about web development.
+Sometimes I write articles on [my personal blog](https://grzegorzpokorski.pl/blog/) where I share some of my thoughts and knowledge about web development. Look at my recent blog posts (for now in polish only):
+- [Disabled, czy aria-disabled? Który atrybut wybrać?](https://grzegorzpokorski.pl/blog/disabled-czy-aria-disabled-ktory-atrybut-wybrac)
+- [Dostępność w kilku krokach](https://grzegorzpokorski.pl/blog/dostepnosc-w-kilku-krokach)
+- [Jak przyspieszyć stronę internetową?](https://grzegorzpokorski.pl/blog/jak-przyspieszyc-strone-internetowa)
 
 Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). You can also find me on [Linkedin](https://www.linkedin.com/in/grzegorz-pokorski/) or [Discord](https://discord.com/) (username: grzegorzpokorski). I'm **always happy** to hear from **YOU!** 😊
 
@@ -28,28 +34,37 @@ Feel free to contact me via [e-mail](mailto:mr.pokorski@gmail.com). You can also
 
 ---
 
-## Skills and interests
+## Used languages, frameworks, tools, cloud platforms:
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-logo?style=for-the-badge&logo=Sass&logoColor=white&color=CC6699)
-![JavaScript](https://img.shields.io/badge/javascript-logo?style=for-the-badge&logo=JavaScript&logoColor=black&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/wordpress-logo?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B)
-![ACF PRO](https://img.shields.io/badge/acf&nbsp;pro-logo?style=for-the-badge&logo=acfpro&logoColor=white&color=00e4bc)
 
-## 👨‍🎨 Design
+![Postgresql](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/radix_ui-181818.svg?style=for-the-badge&logo=radixui&logoColor=white)
+![Headless UI](https://img.shields.io/badge/headless_ui-66E3FF.svg?style=for-the-badge&logo=headlessui&logoColor=black)
+
+![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![ESlint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![VSC](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-logo?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=31A8FF)
 
-Apart from programming, I am also interested in UX/UI. I love good looking designs which are also intuitive in using at the same time. Check my portfolio on [Behance](https://www.behance.net/grzegorzpokorski)!
-
-## ✨ Other
+## Languages:
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![English B2](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-B2-blue?style=for-the-badge)
 
 ![](https://komarev.com/ghpvc/?username=grzegorzpokorski&style=flat-square)
