@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I'm a self-taught frontend developer driven by my passion for creating high-quality websites using modern technologies. I am currently contributing to open-source projects and expanding my expertise in **TypeScript** and **React**. I am also a big fan of **Next.js** framework because it enables me to create lightning-fast and high-performing websites that effectively achieve their business objectives.
 
 Here are a few projects to which I have contributed recently:
+- [kongresjs.pl](https://kongresjs.pl/)
 - [saleor/storefront](https://github.com/saleor/storefront)
 - [typeofweb/typeofweb.com](https://github.com/typeofweb/typeofweb.com)
 - [typeofweb/devfaq](https://github.com/typeofweb/devfaq)
